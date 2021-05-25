@@ -4,6 +4,8 @@
 # SONGY
 Web Application (with Django backend and HTML+CSS+JS frontend) which serves as a variation of a locally played party game. If you want to learn more, there is a tutorial in the project's README.
 
+# MESSAGES API
+A Django application, which allows the user to create, edit and delete messages via REST API. It is deployed to Heroku.
 
 ## Study projects e.g.:
 
